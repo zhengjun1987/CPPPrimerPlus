@@ -7,7 +7,7 @@
  *  Desc:
  */
 
-int main(){
+int mfst(){
     using namespace std;
     cout << "Come up and C++ me some time!";
     cout << endl;
